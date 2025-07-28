@@ -1,0 +1,424 @@
+## Rationality, War, and the Limits of International Cooperation  
+---
+*This lecture covers student introductions and motivations for taking the course, followed by an in-depth discussion on the causes of World War I through the lens of bargaining theory, including debates on rationality, information and commitment problems, and the role of individual leaders; it also explores the aftermath of the war, the Treaty of Versailles, the League of Nations, and how power dynamics and institutional hierarchies influenced international cooperation and legitimacy.*
+
+---
+### Todo List
+
+- [ ] **Read Lieber and Clark readings** before next seminar for discussion on WWI rationality.
+- [ ] **Review Cohen and Martin reading** on international institutions before next lecture.
+- [ ] **Prepare for essay assignment**—essay questions will be emailed this week.
+- [ ] **Complete all assigned readings** on League of Nations and post-WWI cooperation by next week.
+
+---
+#### 🎓 Student Introductions and Course Motivations
+---
+> "We're here to explore unfamiliar territory, connect diverse perspectives, and understand how states interact—beyond just fulfilling major requirements."
+---
+- **Seminar Introduction**
+   - Instructor began by acknowledging full attendance.
+   - Asked students to introduce themselves.
+   - Purpose: understand student backgrounds and reasons for taking the course.
+
+- **Class Size**
+   - Other seminar: 6 students.
+   - This seminar: 22 students.
+
+- **Course Engagement**
+   - Instructor sent out discussion questions prior to class.
+   - Questions intended to guide today's discussion.
+
+- **Student Introductions (Selected Highlights)**
+   - **Tanya**: UCLA, **Political Science** major, taking course for major requirements.
+   - **Sydney**: Interested in **criminal law** and **international relations**.
+   - **Harvard Student**: Studying **government**, course fulfills major requirement.
+   - **Maria**: History background, initially intimidated.
+   - **Arlo**: **Philosophy** major, little background in international relations, exploring new area.
+   - **Audrey**: Law degree from Singapore, interested in **history** and **internationalism**.
+   - **UBC Student**: Studies **sustainable finance**, interested in **history** and **cooperation**.
+   - **Karina**: UC Berkeley, **Computer Science** and **Business** major, new to international relations.
+   - **Yanjo**: UC Davis, interested in **policy** and **international affairs**.
+   - **University of Hong Kong Student**: **Social Science** major, first political class, wants academic perspective.
+   - **Levi**: UC Berkeley, **Neuroscience** major, took course to contextualize global issues.
+   - **Trish**: UC Berkeley, **Psychology** major with clinical focus, background in **conflict resolution**, wants to contribute meaningfully in current times.
+   - **Stephanie**: UCLA, **Public Affairs** major, interested in international relations.
+   - **Alexandra**: UCR, **Political Science** and **Law & Society** major.
+   - **Cheyenne**: UC Berkeley, **History** major, studied **Nagorno-Karabakh conflict**, interested in international conflict.
+
+- **Geographic Note**
+   - Instructor noted many students from California.
+   - Commented on Cambridge being a quiet town near London.
+   - Asked students about travel plans in Europe during the summer.
+---
+#### 🧠 Rationality and the Causes of World War I
+---
+> "If it was so clear the war would take a long time, can we still speak of a rational decision to go to war in the first place?"
+---
+- **Seminar Focus**: Discussion of WWI as a **deliberate act** vs. **miscalculated tragedy**
+   - Explore relevant **theories**: **bargaining theory**, **commitment problem**, **information problem**, **issue indivisibility**
+   - Consider historical **intentions**, **misperceptions**, and **rationality**
+
+- **Miscalculated Tragedy View**:
+   - Popular post-war theories emphasized **misperceptions** and **miscalculations**
+   - Example: Germany underestimated **modern warfare** and **enemy capabilities**
+   - Belief that war would be **short and decisive**
+   - German leaders blamed **France** or **Russia**, viewing conflict as **inevitable**
+
+- **Deliberate Act View**:
+   - Evidence suggests Germany had **accurate knowledge** of war's likely duration
+   - Lieber’s research: Germans knew war would be **long and costly**
+   - Suggests **intentional expansionism**, not just miscalculation
+
+- **Bargaining Theory**:
+   - War occurs when **negotiation fails**
+   - Assumes **rational actors** prefer bargaining over costly war
+   - If war was deliberate, challenges theory’s assumption of **rationality**
+   - Raises question: Did states **exhaust bargaining options**?
+
+- **Commitment Problem**:
+   - States may prefer war if they believe future **power shifts** will disadvantage them
+   - Example: Germany may have preferred to fight **Russia sooner** rather than later
+   - Suggests war was a **strategic choice**, not a failure of information
+
+- **Information Problem**:
+   - Initial belief: states lacked info on **capabilities** and **intentions**
+   - New evidence: states were **well-informed**, undermining this explanation
+   - May still apply in terms of **strategic uncertainty** or **misleading signals**
+
+- **Issue Indivisibility**:
+   - Some issues (e.g., **territory**) may not be easily divided
+   - Lieber: Germany sought **dominance**, possibly making compromise impossible
+   - Expansionist goals may have made **bargaining infeasible**
+
+- **Expansionist Intentions**:
+   - Germany framed war as **defensive**, but had **expansionist plans**
+   - Unclear if plans existed **before** or **developed during** the war
+   - All major powers had some **expansionary aims**
+
+- **Rationality Assumption**:
+   - Bargaining theory assumes **utility-maximizing behavior**
+   - Critique: human behavior is often **emotional**, **irrational**
+   - States may act based on **power preservation**, **historical grievances**, or **strategic opportunity**
+
+- **Historical Context**:
+   - Tensions predated 1914 (e.g., **Franco-Prussian War**, **alliances**, **arms race**)
+   - War may have been **inevitable** due to long-term **structural tensions**
+   - Assassination of Archduke Ferdinand seen as **trigger**, not sole cause
+
+- **Key Theoretical Tensions**:
+   - If war was **intentional**, undermines **bargaining theory**
+   - If war was **miscalculated**, supports **information/commitment problems**
+   - Ongoing debate: were leaders **rational actors** or driven by **emotion, ideology, or misjudgment**?
+
+- **Conclusion of Discussion**:
+   - Important to assess whether states truly **wanted to bargain**
+   - Consider whether war was a result of **failed diplomacy** or **strategic choice**
+   - Central flaw in theory: assumes **rationality** in inherently **complex, emotional decisions**
+---
+#### 🧠 The Role of Individual Leaders and Rationality in State Decision-Making
+---
+> "States don't make decisions—people do, and those people often have conflicting goals, incentives, and limited information, which makes the idea of a single rational actor a useful fiction, not a reality."
+---
+- **States vs. Individuals**
+   - States don't act; individuals act on behalf of states.
+   - Question: Are individuals making **rational decisions**, or are they driven by other motives?
+
+- **Role of Leaders in Pre-WWI Europe**
+   - **Clark reading** discusses monarchs' relationships (British, German, Russian, Austrian).
+   - Many leaders were **related** (e.g., British and German monarchs were cousins).
+   - Despite familial ties, **national interests** took precedence over personal relationships.
+   - German emperor known for **belligerence** and **peculiar behavior**.
+   - Attempted last-minute intervention to stop war—**too late**.
+
+- **Influence of Leaders**
+   - Leaders had **limited influence**; many were **ceremonial**.
+   - **German emperor**: head of army, important in gov’t, but lacked formal education.
+       - Followed advice from **Chief of Staff**, **Prime Minister**, **Chancellor**.
+   - **British king**: politically **irrelevant**.
+   - **Russian emperor**: still an **autocrat**, more influential.
+
+- **Bargaining Theory**
+   - Theory assumes **one rational actor** per state.
+   - Actor seeks to **maximize expected utility** (e.g., survival, economic gain).
+   - Problem: **States are not unitary actors**.
+       - Composed of **multiple agents** with **conflicting incentives**.
+       - Agents may have **personal motivations** (e.g., loyalty to boss, electorate).
+
+- **Modern Example: U.S. Tariffs**
+   - Not all factions in U.S. gov’t agree on tariffs.
+   - **Internal divisions** affect bargaining outcomes.
+   - Tariffs used as **political strategy** and **signaling**.
+       - Example: “America First” rhetoric.
+       - Aimed at **domestic industry revival** and **global power signaling**.
+
+- **Information and Bargaining**
+   - Bargaining involves **information flow**.
+   - Conflict often about **controlling the narrative**.
+   - Example: Germany sent softened telegram to Russia to avoid escalation.
+       - Despite this, **misinformation** or **lack of trust** led to war.
+
+- **Germany’s Role in WWI**
+   - Germany bears **significant blame**, but not **sole responsibility**.
+   - Must consider actions of **multiple states** (5–6 major players).
+
+- **Rationality in Bargaining**
+   - Rationality can mean:
+       - **Maximizing gains**.
+       - **Minimizing losses**.
+   - States may **forego bargaining** if they believe war is more beneficial.
+       - Example: Germany believed it was **militarily superior**.
+
+- **Realism: Two Types**
+   - **Defensive Realism**:
+       - States act to **ensure survival**.
+       - Prefer **defensive strategies**.
+       - Go to war only when **bargaining fails**.
+   - **Offensive Realism**:
+       - States aim to **maximize power**.
+       - Expansion is **rational**.
+       - Associated with **John Mearsheimer**.
+---
+#### ⚔️ Offensive vs Defensive Realism and the Rationalist Explanations for War
+---
+> "Perfect rationality is extremely difficult to achieve—leaders are human, organizations are fragmented, and even war can be a rational outcome when bargaining fails."
+---
+- **Maximization as survival strategy**  
+   - Leads to **offensive vs. defensive realism** debate  
+   - States may act offensively to secure survival  
+
+- **Offensive Realism**  
+   - Expansion seen as rational strategy  
+   - Example: German behavior interpreted as **offensively oriented**  
+   - Aligns with **Mearsheimer’s expansionist position**  
+
+- **Defensive Realism**  
+   - Focus on maintaining security, not expansion  
+
+- **Rationalist Explanations for War**  
+   - War can result from **bargaining failure**  
+   - Even rational actors may end up in war  
+   - War may occur:
+      - From the start (preference for war)
+      - After failed negotiations  
+
+- **Information Failures**  
+   - Misjudging opponent’s willingness to fight  
+   - Example: British may have underestimated German resolve  
+   - Russian negotiation failures also possible  
+
+- **Limits of Rationality**  
+   - Perfect rationality is rare  
+   - Leaders influenced by:
+      - **Emotions**
+      - **Personal priorities**
+      - **Organizational constraints**  
+   - Governments are **multi-actor systems**  
+      - Internal factions with conflicting goals  
+      - Policy outcomes often reflect internal compromises  
+
+- **Organization Theory**  
+   - Explains how internal government dynamics affect decisions  
+   - Policy proposals are often pre-bargained within the state  
+   - Applies to war onset and nuclear weapons policy  
+
+- **Post-WWI Peace Settlements**  
+   - **Paris Peace Conference** and **Treaty of Versailles**  
+   - Major empires collapsed: **German**, **Russian**, **Ottoman**  
+   - Power vacuum filled by **France**, **Britain**, **US**  
+
+- **US Role in Peace Process**  
+   - Entered war late, less domestic impact  
+   - Advocated for **liberal international order** (e.g., **Wilson’s 14 Points**)  
+   - Less punitive toward Germany  
+
+- **France and Britain’s Position**  
+   - France:
+      - Suffered most destruction (esp. NE France)
+      - Demanded high **reparations** from Germany  
+      - Sought to **cripple German economy** to prevent future threats  
+   - Britain:
+      - More moderate than France
+      - Still leaned toward reparations  
+      - Wanted to recover war costs  
+
+- **Anglo-French Financial Dependency on US**  
+   - Britain and France heavily indebted to US  
+   - **JP Morgan** bankrolled Allies before US entered war  
+   - US financial power central post-war  
+
+- **Reparations and Economic Tensions**  
+   - Allies needed German reparations to repay US loans  
+   - Tension:
+      - Too much reparations = strangle German economy  
+      - Too little = insufficient funds for Allies  
+   - Balance needed for economic recovery and debt repayment  
+
+- **Legacy of the War**  
+   - Debate over how transformational WWI was  
+   - Some argue limited change; others see major shifts  
+   - **League of Nations** treated Germany as sovereign post-WWI  
+   - Contrast with post-WWII division of Germany  
+
+- **Power Shift Post-WWI**  
+   - US emerged as key financial power  
+   - Britain’s global dominance declined but not drastically  
+   - France and Britain reliant on US loans  
+   - German economic recovery essential for Allied financial stability
+---
+#### 🌍 Power, Hierarchy, and the Limits of International Institutions
+---
+> "Institutions don't erase power—they often amplify it, legitimizing the dominance of stronger states under the guise of cooperation."
+---
+- **Post-1929 Economic Collapse**
+   - US economy contracts during the **Great Depression**
+   - Negatively impacts other major powers (France, Germany, etc.)
+
+- **French Concerns Post-WWI**
+   - Fear of German resurgence
+   - Construction of **Maginot Line** as defense
+   - Focus on **Alsace region** (linguistically and culturally mixed)
+
+- **League of Nations and Hierarchy**
+   - **Spanish argument**: League structured on **hierarchy**
+      - **Non-white states** excluded
+      - Powerful states dictated terms
+   - **Cohen and Martin**: Institutions can foster cooperation
+      - Optimistic about institutional effectiveness
+      - Institutions help overcome **informational asymmetry** and **commitment problems**
+
+- **Contradictions Between Theory and Practice**
+   - League of Nations often **coercive**, not cooperative
+   - Institutions used to **discipline weaker states**
+   - **Minority treaties** reflect **hierarchical structure**
+   - Institutions can **legitimize inequality**
+
+- **Example: Åland Islands Conflict (1921)**
+   - Dispute between Nordic countries
+   - League intervened successfully
+   - Shows potential for cooperation in limited cases
+
+- **Institutions as Tools of Power**
+   - Institutions can **entrench power imbalances**
+   - **Mandate system** allowed Britain and France to expand empires
+      - Mandates framed as **temporary stewardship**
+      - In practice, extended **imperial control**
+
+- **Cohen and Martin’s Ideal vs. Reality**
+   - Argue institutions solve **distributional issues**
+   - Reality: Institutions often **cement unequal norms**
+   - Institutions reflect **pre-existing power relations**
+
+- **Motivations for Joining Institutions**
+   - **Weaker states**:
+      - Seek **international exposure**
+      - Desire **equal voice** in global affairs
+   - **Stronger states**:
+      - Expand **influence**
+      - Control **norm-setting** and **institutional agendas**
+
+- **Example: WTO**
+   - **Smaller states** join for **preferential trade**
+   - **Larger states** join to **shape rules**
+   - Threats to leave (e.g., US, China) challenge **institutional legitimacy**
+
+- **US and the League of Nations**
+   - US **never joined** the League
+   - Despite Wilson’s **14 Points**
+   - Absence weakened League’s **legitimacy**
+   - Enabled **French and British dominance**
+
+- **US Isolationism**
+   - Influenced by **Monroe Doctrine**
+   - US hesitant to become **hegemonic power**
+   - Concerned about **security dilemmas** and **entangling alliances**
+
+- **Power Dynamics in Institutions**
+   - **Stronger states** shape outcomes even within institutions
+   - Institutions may **amplify** external power dynamics
+   - **Absolute gains** theory insufficient in explaining outcomes
+
+- **Realist Critique (Mearsheimer)**
+   - Institutions reflect **existing state relationships**
+   - Institutions matter only in **non-security** areas (e.g., trade)
+   - **Security cooperation** seen as ineffective
+
+- **Seminar Conclusion**
+   - Institutions can both **enable cooperation** and **reinforce dominance**
+   - Tension between **idealistic goals** and **practical outcomes**
+   - Future lectures will explore **US hegemony** and **institutional effectiveness** post-WWII
+---
+### Glossary
+
+| Term                        | Definition |
+|-----------------------------|------------|
+| Bargaining Theory           | A theoretical framework in international relations that views war as a failure of negotiation between rational actors due to issues like information asymmetry, commitment problems, or indivisibility of stakes. |
+| Rational Actor              | An individual or entity (e.g., a state) that makes decisions aimed at maximizing its utility or interests, often assumed in theories of international relations. |
+| Commitment Problem          | A situation in which states cannot trust each other to uphold a deal in the future, leading to conflict despite a preferable negotiated outcome. |
+| Information Asymmetry       | A condition where one party in a negotiation has more or better information than the other, potentially leading to miscalculations and conflict. |
+| Issue Indivisibility        | A situation where the object of dispute (e.g., territory) cannot be divided or shared, making compromise difficult or impossible. |
+| Offensive Realism           | A theory in international relations suggesting that states seek to maximize power and pursue expansion to ensure their survival. |
+| Defensive Realism           | A theory in international relations positing that states are primarily concerned with maintaining their security and survival, often through defensive strategies. |
+| Absolute Gains              | The concept that states are concerned with improving their own position or wealth, regardless of how much others gain. |
+| Relative Gains              | The idea that states are concerned not just with their own gains, but with how much more or less they gain compared to others. |
+| Institutionalism            | A theory that emphasizes the role of international institutions in promoting cooperation and reducing conflict among states. |
+| League of Nations           | An international organization founded after World War I to promote peace and cooperation, ultimately considered ineffective due to lack of enforcement power and U.S. non-participation. |
+| Mandate System              | A system established by the League of Nations where former colonies and territories of defeated powers were administered by advanced nations under the guise of preparing them for self-rule. |
+| Minority Treaties           | Agreements imposed on new or restructured states after WWI to protect the rights of ethnic and national minorities, often seen as tools of Western dominance. |
+| Hierarchy in Institutions   | The idea that international institutions often reflect and reinforce existing power structures, privileging stronger states over weaker ones. |
+| Monroe Doctrine             | A U.S. foreign policy principle that opposed European colonialism in the Americas and promoted U.S. dominance in the Western Hemisphere. |
+| Fourteen Points             | A statement of principles for peace proposed by U.S. President Woodrow Wilson after WWI, advocating for self-determination, free trade, and the League of Nations. |
+| Interwar Period             | The time between World War I and World War II (1918–1939), marked by political instability, economic turmoil, and the rise of totalitarian regimes. |
+| Reparations                 | Payments made by a defeated country after a war to compensate for damages caused, notably imposed on Germany after WWI. |
+| Institutional Legitimacy   | The perception that an institution’s rules and actions are appropriate, just, and acceptable, often influenced by the participation of powerful states. |
+| Organizational Theory       | A perspective in international relations that examines how internal structures and bureaucracies within states influence foreign policy decisions. |
+
+---
+### Quiz
+
+1. What was the initial activity the instructor asked students to do at the beginning of the seminar?
+2. Why did the instructor ask students to introduce themselves and their academic backgrounds?
+3. What was the main topic of discussion in the seminar?
+4. What are the two main interpretations of the causes of World War I discussed in the seminar?
+5. What is the bargaining theory of war, and how does it relate to rationality?
+6. According to the seminar discussion, what new evidence challenges the idea that World War I was a miscalculated tragedy?
+7. What are the three main problems in bargaining theory that can lead to war?
+8. How does the concept of rationality differ between offensive and defensive realism?
+9. What role do individual leaders play in the decision-making process leading to war, according to the seminar?
+10. How does the seminar critique the assumption that states are unitary rational actors?
+11. What were the differing goals of France, Britain, and the United States at the Paris Peace Conference?
+12. Why did France demand high reparations from Germany after World War I?
+13. How did the absence of the United States from the League of Nations affect the organization?
+14. What is the main argument of the Span reading regarding the League of Nations?
+15. How do Cohen and Martin view the role of international institutions in promoting cooperation?
+16. In what ways did the League of Nations fail to meet the ideal functions of international institutions, according to the seminar?
+17. What is the significance of the mandate system in the context of the League of Nations?
+18. Why might weaker states choose to join international institutions despite unequal power dynamics?
+19. What is the critique of Cohen and Martin’s theory based on the historical example of the League of Nations?
+20. What future topic did the instructor mention would be discussed in relation to institutions and power dynamics?
+
+---
+
+### Answers
+
+1. Tick off their names on the attendance list.
+2. To understand who was in the class and why they were taking the course.
+3. The causes and implications of World War I, particularly through the lens of bargaining theory.
+4. That it was either a deliberate act or a miscalculated tragedy.
+5. Bargaining theory suggests that war occurs when states fail to reach a mutually beneficial agreement due to issues like misinformation, commitment problems, or indivisibility of issues.
+6. New research shows that German leaders were aware the war would be long and costly, challenging the idea that it was a miscalculation.
+7. Information problems, commitment problems, and issue indivisibility.
+8. Defensive realism sees rationality as survival-focused; offensive realism sees rationality as power-maximizing.
+9. Leaders can have emotional and personal motivations that influence state decisions, and their individual influence varies by country.
+10. It shows that internal divisions and differing interests within states complicate the idea of a single rational actor.
+11. France wanted harsh reparations, Britain was moderate, and the U.S. aimed for peace and a liberal international order.
+12. To rebuild after the destruction of northeastern France and to repay debts to the U.S.
+13. It weakened the League’s legitimacy and allowed Britain and France to dominate.
+14. That the League institutionalized global hierarchies and excluded non-Western states.
+15. They argue institutions help states overcome problems like information asymmetry and commitment issues to achieve mutual gains.
+16. The League reinforced existing power hierarchies and failed to provide equal representation or enforce peace effectively.
+17. It allowed Britain and France to expand their empires under the guise of international stewardship.
+18. To gain legitimacy, access to international dialogue, and potential economic or political benefits.
+19. That institutions can reinforce inequality and serve the interests of powerful states rather than promoting true cooperation.
+20. The post-World War II international system and U.S. hegemony.
+
+---

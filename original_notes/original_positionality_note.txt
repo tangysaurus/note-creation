@@ -1,0 +1,743 @@
+## Understanding Positionality and the Nature of Reality in Research and Practice  
+---
+*This lecture covers the concept of positionality in research, emphasizing how individual beliefs, values, and experiences shape knowledge production and interpretation; it explores philosophical paradigms such as epistemology, ontology, and metaphysics, debates nature versus nurture through examples like PTSD and genetic inheritance, and discusses how differing worldviews impact fields like forensic psychology, ultimately stressing the importance of understanding one's own positionality to conduct ethical and coherent research.*
+
+---
+### Todo List
+
+- [ ] **Read and analyze the Marine A case study** before next class discussion.
+- [ ] **Complete positionality spectrum reflection exercise** by next seminar session.
+- [ ] **Review Thomas Kuhn’s 1962 work on paradigms** for further reading this week.
+- [ ] **Attend rescheduled lecture on Monday at 4:45 PM** and note new date: July 29.
+- [ ] **Prepare for upcoming forensic psychology case study analysis** (time estimate: 2–3 hours).
+
+---
+#### 🧬 Exploring Positionality, Epistemology, and Intergenerational Trauma
+---
+> "Positionality shapes your research—if you can't validate your own, your work is fundamentally flawed."
+---
+- **Positionality**: One’s unique position in the world
+   - Includes **belief systems**, **values**, **knowledge**, and **knowledge formulation**
+   - Shapes what knowledge is considered **valid** or **invalid**
+   - Varies between individuals, affecting research interpretation
+
+- **Importance in Research**:
+   - Essential across all disciplines
+   - Research is invalid without acknowledging and validating **positionality**
+
+- **Epistemology**: 
+   - Philosophical theory of knowledge
+   - Concerns **justified belief** vs. **opinion**
+   - Part of understanding one’s **knowledge structure**
+
+- **Ontology**:
+   - Study of the **nature of reality**
+   - Includes questions like “Does something exist?”
+   - Relevant to understanding how we perceive and define reality
+
+- **Nature vs. Nurture Debate**:
+   - Discussion on whether **genetics (nature)** or **environment (nurture)** shapes life outcomes more
+   - Example: Identical behaviors in genetically related individuals raised apart
+   - Suggests **genetic influence** on personality, interests, and behavior
+
+- **PTSD (Post-Traumatic Stress Disorder)**:
+   - Caused by **traumatic events**
+   - Question posed: Do all babies have equal probability of developing PTSD at birth?
+
+- **Genetic Predisposition**:
+   - Some babies may have **genes** that increase susceptibility to PTSD
+   - Others may have **resilience genes**
+   - Gene expression can vary even at birth
+
+- **Gene Expression**:
+   - Genes can be **turned on or off**
+   - Influenced by **in utero environment**, **maternal stress**, and **nutrition**
+   - Even if babies are born at the same time, gene expression may differ
+
+- **Epigenetics**:
+   - Study of how **environmental factors** affect **gene expression**
+   - Not changes to DNA sequence, but how genes are **expressed**
+
+- **Transgenerational Trauma**:
+   - Experiences of parents or grandparents can affect descendants
+   - Example: Grandchildren of women pregnant during 9/11 have ~40% higher PTSD risk
+   - Trauma in **third trimester** linked to changes in fetal gene expression
+
+- **Mechanism Unclear**:
+   - Exact biological process not fully understood
+   - Believed to involve **hormonal** and **chemical changes** during pregnancy
+   - These changes affect **gene expression** in the fetus
+
+- **Research Findings**:
+   - PTSD-related genes more expressed in descendants of trauma survivors
+   - Expression persists across **multiple generations**
+   - Not due to upbringing or environment, but **biological inheritance**
+
+- **Conclusion**:
+   - Positionality, epistemology, and ontology are foundational to research
+   - Nature and nurture both play roles, but **epigenetics** bridges them
+   - Trauma can have **measurable biological effects** across generations
+---
+#### 🧠 Belief, Reality, and the Foundations of Knowledge
+---
+> "How you approach your literal reality will depend on how you see the world—and that changes everything, from science to justice to forgiveness."
+---
+- **Perception of Reality**
+   - Individuals perceive reality differently.
+   - Beliefs (e.g., deity vs. science) shape worldview.
+   - Influences moral judgments (punishment vs. forgiveness).
+   - Affects professional decisions (e.g., forensic psychology).
+
+- **Forensic Psychology**
+   - Beliefs impact assessments of rehabilitation.
+   - Psychologists may differ: retribution vs. forgiveness.
+   - Personal worldview influences professional judgment.
+   - Belief in inherent evil affects sentencing decisions.
+
+- **Belief Systems and Justice**
+   - **Procedural justice**: belief in fairness and rehabilitation.
+   - **Retributive justice**: belief in punishment for wrongdoing.
+   - Beliefs about human nature influence legal outcomes.
+
+- **Stephen Hawking Anecdote**
+   - Reference to **"turtles all the way down"** story.
+   - Woman claimed Earth rests on a turtle, then infinite turtles.
+   - Illustrates **infinite regression**: endless chain of reasoning.
+
+- **Purple Mountain Thought Experiment**
+   - Can imagine a **purple mountain**.
+   - Does it exist? Not proven false.
+   - Introduces **reasonable doubt**.
+   - Used in law to challenge certainty.
+
+- **Infinite Regression**
+   - Philosophical concept: each answer leads to another question.
+   - Example: chicken vs. egg debate.
+   - Scientific resolution: protein only current chickens produce.
+
+- **Metaphysics**
+   - Study of what lies beyond physical reality.
+   - Challenges assumptions and foundational knowledge.
+   - Used to deconstruct arguments and research.
+
+- **Academic and Legal Argumentation**
+   - Goal: disprove opponent, not necessarily prove self.
+   - **Prosecutors**: only need to show doubt in defense.
+   - **Academics**: often critique without offering alternatives.
+
+- **Foundationalism vs. Coherentism**
+   - **Foundationalism**: knowledge built on basic, accepted truths.
+   - **Coherentism**: knowledge is valid if it fits within a consistent system.
+   - Example: imagining a **leopard in the rain**.
+      - Based on empirical experience of both elements.
+
+- **Empiricism**
+   - Knowledge from sensory experience.
+   - Validates imagined scenarios through past experience.
+
+- **Critiques of Knowledge**
+   - Two main critiques:
+      - **Meticulous**: challenges the **what** (content) of knowledge.
+      - **Members**: challenges the **how** (method) of knowledge.
+   - Example: Sitting on a chair.
+      - Meticulous: questions what sitting is.
+      - Members: questions how you know you're sitting.
+
+- **Descartes' Philosophy**
+   - **"I think, therefore I am"**.
+   - Basis for self-awareness and existence.
+   - Used to ground knowledge in consciousness.
+---
+#### 🧠 Exploring Positionality, Perception, and the Nature of Reality
+---
+> "If you don't know your own positionality, you're not a particularly good professional thinker."
+---
+- **Positionality**: One’s stance or perspective shaped by personal beliefs, experiences, and background.
+   - Affects how individuals interpret knowledge and reality.
+   - Influences research approach and critical analysis.
+   - Essential for professional thinking and integrity.
+
+- **Types of Knowledge and Reality**:
+   - Some believe in **objective reality**: measurable, testable, scientific.
+   - Others believe in **subjective reality**: shaped by perception and experience.
+   - Debate between **genetic influence** vs. **environmental influence** on behavior and diagnosis.
+
+- **Paradigms**: Frameworks or models of understanding.
+   - Must align with research methods.
+   - Example: Scientific paradigm values falsifiability and replication.
+
+- **Case Study Example**:
+   - Man developed **paedophilic urges** due to a **brain tumor**.
+   - Tumor removed → urges disappeared.
+   - Tumor returned years later → urges returned.
+   - Suggests **biological basis** for behavior and attraction.
+
+- **Free Will vs. Determinism**:
+   - Some argue **no free will**; behavior determined by biology (e.g., hormones, brain chemistry).
+   - Others believe in **partial free will**, with some capacity to change attraction or behavior.
+
+- **Neuroscience and Attraction**:
+   - **Brain regions** influence sexual attraction and personality.
+   - **Hormones** and **neurochemistry** affect preferences and emotional responses.
+   - **Endocrinology** plays a role in shaping relationships and attraction.
+
+- **Learned Behavior and Environment**:
+   - Early experiences (e.g., associating abuse with love) can shape attraction.
+   - Environmental exposure and upbringing influence personality and preferences.
+
+- **Genetic Similarity in Families**:
+   - Family members often share **physical traits** and **personality types**.
+   - Example: Children resembling and behaving like biological parents.
+   - Step-relations may show less similarity in behavior and communication.
+
+- **Developmental Changes**:
+   - **Age 27**: Significant brain development milestone for biological women.
+   - **Menopause**: Hormonal changes affect personality and attraction.
+   - **Autoimmune diseases** and hormonal shifts can alter attraction and behavior.
+
+- **Attraction Over Time**:
+   - Attraction can change with age, experience, and hormonal cycles.
+   - Fertility and menstrual cycles influence preferences.
+   - Learned lessons may not override biological or chemical influences.
+
+- **Robert Sapolsky**:
+   - Evolutionary biologist.
+   - Argues strongly against the existence of **free will**.
+   - Believes all behavior is biologically determined.
+
+- **Spectrum of Beliefs**:
+   - From strict biological determinism to environmental constructivism.
+   - Most people fall somewhere in between.
+   - Important to recognize and articulate one’s position on this spectrum.
+---
+#### 🧠 Understanding Positionality and Perspectives on Human Nature
+---
+> "People aren't inherently good or bad—they're just people with strategies to meet their needs, some helpful, some harmful, and some just plain messy."
+---
+- **Biological Development and Personality**
+   - **Puberty** brings hormonal changes affecting behavior and perception.
+   - **Cognitive development** in children (e.g., 4 vs. 8 years old) shows increasing complexity in reasoning.
+   - **Biological changes** influence personality and behavior over time.
+   - These changes often occur **unnoticed** but shape how individuals interact and perceive others.
+
+- **Maturity and Individual Variation**
+   - **Biological sub-trajectory**: Individual timelines for reaching maturity vary (e.g., 21, 31, 61).
+   - Maturity affects **decision-making**, **behavior**, and **life choices**.
+   - People exist on a **spectrum** of development and understanding.
+
+- **Positionality and Epistemological Spectrum**
+   - **Positionality**: One’s stance on knowledge, reality, and truth.
+   - **Epistemological spectrum** includes:
+      - **Relativism**: All knowledge and reality are subjective and valid in their own context.
+      - **Bounded relativism**: Subjective realities exist but are constrained by context.
+      - **Critical realism**: Combines objective truths (e.g., biology) with subjective experiences.
+      - **Naive realism**: Only measurable, objective facts are valid knowledge.
+      - **Structuralism**: Objective knowledge is shaped by institutional structures (e.g., funding, power).
+   - **Critical realism** is a common middle-ground position.
+
+- **Paradigms and Research Alignment**
+   - **Paradigm**: Framework guiding how knowledge is understood and researched.
+   - Researchers must align their **paradigm** with their **research topic**.
+      - E.g., someone who values only measurable data may not align with **critical race theory**.
+   - **Biases** influence research, clinical practice, and interpretation of knowledge.
+
+- **Critical Thinking in Research**
+   - Evaluate arguments based on **alignment with positionality**.
+   - Valid research can be recognized even if it differs from personal stance.
+   - Important to **critically assess** sources and arguments in dissertations and academic work.
+
+- **Critical Artists and Knowledge**
+   - Believe **reality is shaped by power, discourse, and media**.
+   - Knowledge is not neutral; it is influenced by **authority and structure**.
+
+- **Human Nature Debate**
+   - Three views:
+      - People are **inherently good**.
+      - People are **inherently bad**.
+      - People are **neither**; behavior is situational.
+   - Many believe people use **strategies to meet needs**, not inherently good or bad.
+      - Strategies may be **biological**, **unconscious**, or **learned** in childhood.
+
+- **Capacity for Atrocity**
+   - Discussion on whether all people are capable of **committing serious harm** under certain conditions.
+   - Raises questions about **situational ethics** and **moral flexibility**.
+
+- **Police and Use of Force**
+   - Case study: Police officer researching psychological effects after killing someone.
+   - Raises ethical questions about **justification**, **emotional detachment**, and **training**.
+   - Two perspectives:
+      - Officers are **predisposed** to accept use of force.
+      - Officers are **shaped by training, culture, and exposure** over time.
+   - Discussion on whether **police misconduct** is due to individual traits or systemic influence.
+
+- **Key Concepts**
+   - **Positionality**: Personal stance on knowledge and reality.
+   - **Epistemology**: Study of knowledge and justified belief.
+   - **Critical realism**: Acknowledges both objective facts and subjective experiences.
+   - **Structuralism**: Knowledge is shaped by social and institutional structures.
+   - **Paradigm**: Theoretical framework guiding research and interpretation.
+   - **Bias**: Preconceived notions affecting perception and analysis.
+---
+#### 🛡️ Motivations and Structures in Policing and Military Service
+---
+> "No one knows how many policing organizations exist globally—at last count, over 18,000 in the U.S. alone."
+---
+- **Self-selection in policing**
+   - Some join police aware they may use force
+   - Others join unaware, adapt through culture/environment
+   - Motivation varies: duty, power, or practical benefits
+
+- **Comparison: Police vs. Military**
+   - **Military**: Clear expectation of potential violence
+   - **Police**: Ambiguous role; varies by country and region
+   - Military often joined for benefits, respect, education, or patriotism
+
+- **Case Study: Policing Structures**
+   - **UK Model**:
+      - 45 **territorial forces**
+      - Each area covered by a force with professional practices
+      - Forces tied to **state legal counsel**
+      - Jurisdictional issues at county borders (e.g., pursuit limitations)
+   - **US Model**:
+      - Over **18,000 policing organizations**
+      - No centralized documentation of all agencies
+      - Complex structure: local, state, federal, private contracts
+   - **French Model**:
+      - Dual system: **armed national force** + **regional local force**
+   - **Irish Model**:
+      - Single national police force, still regionalized
+
+- **Motivations for Joining Military/Police**
+   - **Education benefits** (e.g., medical school, college)
+   - **Career opportunities**
+   - **Community respect**
+   - **Patriotism**
+   - **Family legacy**
+   - **Financial necessity**
+   - Some join for **non-combat roles** (e.g., doctors, lawyers, teachers)
+
+- **Moral and Psychological Questions**
+   - Are military/police recruits more willing to do harm?
+   - Are they inherently more harmful?
+   - Debate over whether willingness to harm is a prerequisite or a result of training/culture
+
+- **Case Study: Marine A**
+   - British soldier in Afghanistan
+   - Killed a wounded enemy combatant
+   - Violated **Geneva Convention**
+   - Stated: “I’ve just broken the Geneva Convention”
+   - Tried for **murder**
+   - Case raises questions:
+      - Was it murder or not?
+      - Role of **combat stress**, **duty history**, **deployment length**
+      - Cultural and legal implications
+   - Will be used as a key case study in course
+
+- **Course Logistics**
+   - Monday lecture moved to Friday
+   - July 29th (Tuesday) lecture also moved
+   - New dates include Thursday 31st (evening) and another Friday
+   - Students should confirm updated schedule with instructor
+---
+#### 🧠 Nerdy Flirting and Self-Awareness in Academic Circles
+---
+> "The more you know, the more you realize how wrong most generalized knowledge is—expertise just shows you the depth of what you don’t know."
+---
+- **Cybersecurity Class**
+   - Mentioned someone went to Gibraltar
+   - No class today or tomorrow due to travel
+
+- **Travel Plans**
+   - One person has a flight to London on the 1st at 9 AM
+
+- **Emotional Attachment**
+   - Someone expresses not wanting to miss people/events
+   - Expresses love for the experience or group
+
+- **Video Call Issues**
+   - Attempt to adjust screen or call settings
+   - Technical difficulties with video display
+
+- **Massage Chair**
+   - Becomes a preferred or default chair
+   - Described as comfortable and hard to leave
+
+- **Living Situations**
+   - Discussion about people overstaying visits
+   - Some guests become long-term "orbiters"
+   - Boundaries with long-term friends mentioned
+
+- **Flirting and Self-Reflection**
+   - One person reflects on a flirtation described as “Trish tailored”
+   - Use of **ChatGPT** for self-analysis
+   - Describes difficulty in dating and being in their own head
+   - Acknowledges overthinking and apologizing for it
+
+- **Academic Identity**
+   - Discussion of how academic background affects personality
+   - One person’s ex-wife had degrees in **physics and biology**
+   - Another ex was an **entomologist**
+   - Attraction to “brainy” people
+
+- **Graduate School Experience**
+   - Surrounded by highly educated people in Corvallis
+   - Frequent casual conversations about PhDs
+   - Realization that **generalized knowledge** is often incorrect
+
+- **Intellectual Humility**
+   - Being wrong not tied to ego is seen as attractive
+   - Openness to learning and evolving perspectives valued
+
+- **Knowledge and Change**
+   - Science and knowledge are constantly evolving
+   - Awareness of the limits of one’s own knowledge
+   - Distinction between **academic knowledge** and **practical knowledge**
+
+- **Common Sense**
+   - One person reflects on being told they lack common sense
+   - Accepts it as part of their **ADHD**-influenced thinking
+
+- **Nerdy Flirtation**
+   - A flirtation involved sharing a “condensed package” of personal info
+   - Described as a **dossier** or psychological profile
+   - Seen as sweet and transparent
+
+- **Self-Awareness**
+   - Acknowledgement of being “weird”
+   - Acceptance that it takes specific people to understand them
+
+- **Labeling in Relationships**
+   - Discussion about relationship labels
+   - One person asks directly about desired labels
+   - Seen as straightforward communication
+
+- **Use of ChatGPT**
+   - Used to create a psychological and sexual self-assessment
+   - Shared with another person to be transparent
+   - Effort appreciated as sweet and thoughtful
+---
+#### 🧠 Navigating Dyslexia, Humor, and Emotional Complexity in Relationships
+---
+> "I'm just trying to be a good partner for me right now—and that's all over the board."
+---
+- **Dyslexia Experience**
+   - Speaker had dyslexia in college
+   - Struggled with assignments and spelling
+   - Difficulty with alphabet and writing
+   - Learned to simplify language and communication
+   - Strong verbal skills developed through self-training
+   - Uses humor and quick thinking in wordplay
+
+- **Writing and Spelling Challenges**
+   - Can do math mentally but struggles with writing
+   - Spelling remains difficult
+   - Finds traditional games like Scrabble elitist
+   - Prefers informal, fun versions like "redneck Scrabble"
+   - Emphasizes communication over correctness in spelling
+
+- **Perspective on Language**
+   - Frustration with English homophones (e.g., there/their/they’re, here/hear)
+   - Values clarity and connection over grammatical precision
+   - Believes in setting people up for success, not failure
+
+- **Relationship Reflections**
+   - Speaker has been seeking a **foundational relationship** since age 18
+   - Past relationships left emotional impact and financial strain
+   - Acknowledges not being ready for a committed partnership
+   - Needs to prioritize personal **safety**, **stability**, and **self-care**
+
+- **Current Emotional State**
+   - Experiencing **disappointment** from previous relationships
+   - Feels emotionally scattered (sleep, eating habits, etc.)
+   - Not in a place to offer emotional support to another person
+   - Recognizes the ethical responsibility of not entering a relationship unprepared
+
+- **Desire for Connection vs. Readiness**
+   - Values the rare connection with the other person
+   - Does not want to create unhealthy **attachment dynamics**
+   - Wants future relationships to be based on **stability** and **self-assurance**
+   - Aims to avoid being a "savior" or needing one
+
+- **Self-Awareness and Boundaries**
+   - Acknowledges bringing both **new energy** and **chaos**
+   - Describes current state as exciting but unstable
+   - Recognizes the need to ground oneself before committing
+
+- **Life Circumstances**
+   - Currently traveling (e.g., Berlin, Switzerland)
+   - Exploring work opportunities and housing
+   - Still involved in **sex work**, wants to stop eventually
+   - Prefers to end sex work independently, not due to a relationship
+
+- **Impact of Sex Work on Relationships**
+   - Complicates relationship dynamics
+   - Even in accepting relationships, it shifts the connection
+   - Adds emotional and relational complexity
+
+- **Conclusion**
+   - Speaker respects the other person deeply
+   - Wants to avoid creating unhealthy dynamics
+   - Prioritizing personal growth and stability before entering a new relationship
+---
+#### 💔 Navigating Love, Instability, and Emotional Vulnerability
+---
+> "I don't want to be a placeholder. I want to be someone's safe place—not to save them from their work, but to walk beside them in it."
+---
+- **Sex Work and Relationships**
+   - Two individuals discussed experiences with **sex work**
+      - One left and returned to it
+      - One continued throughout
+   - Emotional impact on romantic relationships
+      - Feelings of betrayal and confusion
+      - Conflict between intimacy and professional choices
+
+- **Internal Conflict and Growth**
+   - Speaker reflects on **internalized whorephobia**
+   - Ongoing process of **deconstructing social and relational norms**
+   - Desire to move toward **forensic psychology** or **criminology**
+   - Struggles with **energy management** and **career direction**
+
+- **Instability and Future Planning**
+   - Current life marked by **instability** in health, finances, and housing
+   - Plans to **travel**, **teach English**, and **settle** in the future
+   - Hopes for **financial and health stability** before committing to a relationship
+
+- **Desire for Monogamy**
+   - Expressed interest in a **monogamous connection**
+   - Emphasis on **emotional safety**, **mutual support**, and **not being a placeholder**
+   - Wants a partner with **community skills** and **self-driven purpose**
+
+- **Power Dynamics and Consent**
+   - Concern about **power imbalances** due to instability
+   - Importance of **informed, consensual choices**
+   - Avoiding relationships that feel like **emotional leaning posts**
+
+- **Dating Pool Critique**
+   - Frustration with **lack of care** in dating culture
+   - People often act out of **loneliness**
+   - Desire for **authentic, reciprocal connection**
+
+- **Personal Challenges**
+   - Speaker going through **bankruptcy** and **divorce**
+   - Views these as **external circumstances**, not core identity
+   - Believes in **personal stability** despite life events
+
+- **Connection with Trish**
+   - Felt a rare, deep **emotional connection**
+   - Experience of **not needing to self-edit**
+   - Mutual **care**, **reciprocity**, and **emotional safety**
+
+- **Timing and Regret**
+   - Frustration over **poor timing** of meeting
+   - Speaker on a **personal journey** when connection deepened
+   - Wishes connection had happened **before major life changes**
+
+- **Reflection and Ownership**
+   - Acknowledges **missed opportunities** to connect
+   - Takes **responsibility** for past choices
+   - Expresses **ongoing interest** in exploring the relationship further
+
+- **Humor and Boundaries**
+   - Jokes about needing a **"ginormous dowry"** to return to California
+   - Comments on **inappropriate humor** with younger people
+   - Awareness of **legal and ethical boundaries** in communication
+
+- **Ideal Relationship Vision**
+   - Long-term partner to **explore life together**
+   - Emphasis on **emotional maturity**, **stability**, and **shared growth**
+   - Not seeking to **rescue or be rescued**, but to **co-create a safe space**
+---
+#### 💔 Reflections on Love, Trauma, and the Complexity of Relationships
+---
+> "The longevity of a relationship is the willingness to just keep doing it—through the drama, the healing, and the inconvenient beauty of belonging."
+---
+- **Reflection on Past Relationships**
+   - Speaker reflects on dating multiple people simultaneously
+   - Admits attraction to people they could "save" or "fix"
+   - Describes past choices as chaotic and regrettable
+   - Acknowledges emotional and psychological consequences
+
+- **Scientific Perspective on Relationships**
+   - Mentions lack of **free will** in relationships
+   - Influences include **hormonal**, **genetic**, and **attachment** factors
+
+- **Emotional and Psychological State**
+   - Speaker experienced trauma (e.g., rape, nightmares)
+   - Felt isolated, used substances (weed) to cope
+   - Struggled with memory and emotional clarity during past relationships
+
+- **Polyamory and Relationship Philosophy**
+   - Follows a **"triple win"** rule:
+      - Relationship must be good for self, partner, and the relationship itself
+   - Avoids relationships with excessive drama or pain
+   - Self-selects out of unhealthy dynamics
+
+- **Desire for Adult Friendship and Connection**
+   - Open to developing a friendship or flirtation
+   - Cannot offer **monogamy**
+   - Acknowledges both parties are exploring other connections
+
+- **Life Transitions and Personal Goals**
+   - Working on **citizenship** and **visa** issues
+   - Considering **returning to school**
+   - Enjoys current academic environment and learning pace
+   - Inspired by content and personal growth
+
+- **Relationship Values**
+   - Believes **belonging** is central to relationships
+   - Sees relationships as **inconvenient commitments** (e.g., dealing with partner’s losses, life challenges)
+   - Emphasizes **longevity** through willingness to persist
+
+- **Negotiation vs. Compromise**
+   - Prefers **negotiation** over **compromise**
+      - Negotiation implies mutual benefit
+      - Compromise implies someone loses
+
+- **Desire for Stability and Foundation**
+   - Wants to build a **solid foundation** before committing to a partner
+   - Working on multiple plans to stabilize life
+   - Bringing pet along as part of life planning
+
+- **Vision for Future**
+   - Envisions a life with flexibility (e.g., teaching English abroad)
+   - Desires a partner who can **co-create** a life, not just **plug into** hers
+   - Acknowledges current life setup is not conducive to partnership
+
+- **Career and Interests**
+   - Interested in **cybersecurity**
+   - Finds it exciting and financially promising
+   - Building connections with professors and peers
+
+- **Housing and Financial Constraints**
+   - Limited by housing rules (e.g., guest restrictions, high costs)
+   - Life not currently structured for partnership
+
+- **Desire for Mutual Investment**
+   - Wants to **invest life into someone** and build a future
+   - Rejects relationships based on dependency or one-sided support
+
+- **Current Focus**
+   - Creating something meaningful from life
+   - Prioritizing self-development and emotional healing
+---
+#### 💔 Navigating Emotional Vulnerability and Relationship Dynamics
+---
+> "I don't want to do you—I want to love you, walk through the challenges, and be real about who I am."
+---
+- **Emotional Intelligence**: Speaker reflects on emotional awareness in relationships.
+- **Manipulation in Relationships**:
+   - Examples of emotional coercion (e.g., "take care of my kids", "move in with me").
+   - Promises made without follow-through (e.g., "I'll take care of you" but then asking for rent).
+- **Desire for Authenticity**:
+   - Frustration with societal pressure to appear perfect.
+   - Preference for honesty over curated appearances (e.g., "here’s the real deal").
+- **Relationship Expectations**:
+   - Wanting to walk through challenges together.
+   - Seeking emotional safety and transparency.
+- **Concerns in Relationships**:
+   - Fear of physical violence or verbal abuse.
+   - Importance of knowing a partner’s past trauma (e.g., rape disclosure).
+- **Communication Style**:
+   - Emphasis on being upfront and emotionally available.
+   - Dislike for performative behavior in dating.
+- **Social Dynamics**:
+   - Mention of mutual friends and shared social circles.
+   - Reference to overlapping academic or professional backgrounds.
+- **Romantic Ambiguity**:
+   - Flirtation and unclear intentions discussed.
+   - Acknowledgment of mixed signals and emotional confusion.
+- **Personal Growth and Reflection**:
+   - Speaker mentions learning difficult lessons.
+   - Expresses desire for something more solid and meaningful.
+- **Past Relationships**:
+   - Mentions of ex-fiancé and past partners.
+   - Use of nicknames for past partners (e.g., “kabika”, “JD”).
+- **Creative and Academic Life**:
+   - Reference to making clothes (e.g., cottage pinafores).
+   - Inspiration from others to complete homework and avoid distractions.
+- **Daily Life and Logistics**:
+   - Casual conversation about keys, wallets, and getting ready.
+   - Light-hearted moments (e.g., stickers, “Huzzah”).
+- **Themes of Vulnerability**:
+   - Desire to be seen and accepted as imperfect.
+   - Struggle with shame and emotional exposure.
+- **Support Systems**:
+   - Importance of friends and shared experiences.
+   - Trust in others to keep secrets and offer emotional support.
+---
+### Glossary
+
+| Term                     | Definition |
+|--------------------------|------------|
+| Positionality            | An individual's unique perspective shaped by their values, beliefs, experiences, and social identities, which influences how they interpret and conduct research. |
+| Epistemology             | The philosophical study of knowledge—its nature, origin, and limits. It explores what constitutes justified belief and opinion. |
+| Ontology                 | A branch of metaphysics concerned with the nature of reality and what exists. |
+| Nature vs. Nurture       | A debate concerning whether genetics (nature) or environment and upbringing (nurture) play a more significant role in shaping individuals. |
+| PTSD (Post-Traumatic Stress Disorder) | A mental health condition triggered by experiencing or witnessing a traumatic event. |
+| Epigenetics              | The study of how behaviors and environment can cause changes that affect gene expression without altering the DNA sequence. |
+| Metaphysics              | A branch of philosophy that explores the fundamental nature of reality, including concepts like being, knowing, identity, time, and space. |
+| Infinite Regression      | A philosophical concept where a proposition requires justification by another proposition, leading to an endless chain with no foundation. |
+| Foundationalism          | The theory that knowledge is built upon basic, self-evident truths or foundations. |
+| Coherentism              | The belief that beliefs are justified if they cohere or fit well with other beliefs in a system. |
+| Skepticism               | A philosophical approach that questions the possibility of certainty in knowledge. |
+| Critical Realism         | A philosophical approach that combines a belief in an objective reality with the understanding that our knowledge of it is socially constructed and fallible. |
+| Naïve Realism            | The belief that the world is exactly as we perceive it through our senses. |
+| Relativism               | The idea that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute. |
+| Structuralism            | A theoretical paradigm that suggests elements of human culture must be understood in terms of their relationship to a broader system or structure. |
+| Paradigm                 | A framework of theories, methods, and standards that defines scientific practice in a particular field. |
+| Research Paradigm        | A set of common beliefs and agreements shared between scientists about how problems should be understood and addressed. |
+| Critical Race Theory     | An academic framework that examines society and culture as they relate to race, law, and power. |
+| Forensic Psychology      | The intersection of psychology and the legal system, involving the application of psychological knowledge to legal matters. |
+| Procedural Justice       | The idea of fairness in the processes that resolve disputes and allocate resources. |
+| Retribution              | A theory of justice that considers punishment as a morally acceptable response to crime. |
+| Empiricism               | The theory that all knowledge is derived from sense-experience and observable phenomena. |
+| Methodological Integrity | The alignment between a researcher's philosophical stance and the methods they use in research. |
+| Case Study               | An in-depth analysis of a single case or example, often used in qualitative research. |
+| Free Will                | The ability to make choices that are not determined by prior causes or by divine intervention. |
+| Determinism              | The philosophical belief that all events, including moral choices, are determined completely by previously existing causes. |
+| Generational Trauma      | Psychological effects that are passed down from one generation to the next due to traumatic experiences. |
+| Gendarmerie              | A military force charged with police duties among civilian populations, common in countries like France. |
+| Use of Force             | The amount of effort required by police to compel compliance by an unwilling subject. |
+| Geneva Convention        | A series of international treaties that set standards for humanitarian treatment in war. |
+| Critical Thinking        | The objective analysis and evaluation of an issue in order to form a judgment. |
+
+---
+### Quiz
+
+1. Define "positionality" as discussed in the lecture.
+2. Explain the difference between epistemology and ontology.
+3. What is the significance of the 9/11 study mentioned in the lecture?
+4. How does the concept of epigenetics relate to PTSD according to the lecture?
+5. What is the philosophical implication of the "turtles all the way down" anecdote?
+6. Describe the difference between foundationalism and coherentism in knowledge theory.
+7. What is the role of metaphysics in forensic psychology, as discussed in the lecture?
+8. What is meant by "critical realism" and how does it differ from naive realism?
+9. Why is understanding one's own positionality important in research and professional practice?
+10. What was the case of "Marine A" and why is it significant in forensic psychology?
+11. How does the lecture suggest that beliefs about human nature (e.g., inherently good or bad) influence professional decisions in forensic psychology?
+12. What are some of the motivations discussed for joining the military or police force?
+13. How does the lecture illustrate the impact of biology and environment on personality and behavior?
+14. What is the relationship between research paradigms and methodological alignment?
+15. How can critical thinking be applied to evaluate research validity?
+
+---
+
+### Answers
+
+1. Positionality refers to an individual's unique perspective shaped by their beliefs, values, experiences, and knowledge systems, which influences how they interpret and conduct research.
+2. Epistemology is the study of knowledge and justified belief, while ontology is the study of the nature of reality and existence.
+3. The 9/11 study showed that grandchildren of women who were pregnant during the attacks had a higher likelihood of developing PTSD, suggesting transgenerational trauma.
+4. Epigenetics explains how environmental factors, such as trauma, can alter gene expression and be passed down, affecting susceptibility to conditions like PTSD.
+5. The "turtles all the way down" story illustrates infinite regression and challenges assumptions about foundational truths, highlighting the complexity of proving reality.
+6. Foundationalism asserts that knowledge is built on basic, self-evident truths, while coherentism holds that beliefs are justified by their coherence with other beliefs.
+7. Metaphysics in forensic psychology helps question the nature of reality and truth, which is crucial when evaluating mental states, behaviors, and legal responsibility.
+8. Critical realism acknowledges both objective reality and subjective experience, whereas naive realism assumes that reality is exactly as we perceive it.
+9. Understanding positionality helps researchers and professionals recognize their biases and ensure integrity and alignment in their work.
+10. "Marine A" was a British soldier convicted of murdering a wounded enemy combatant, raising questions about morality, legality, and psychological impact in warfare.
+11. Beliefs about human nature influence decisions such as sentencing, rehabilitation potential, and interpretations of criminal behavior.
+12. Motivations include patriotism, family legacy, financial incentives, education benefits, and a desire for structure or purpose.
+13. The lecture shows that both genetic predispositions and environmental exposures shape personality, behavior, and mental health outcomes.
+14. Research paradigms must align with methods; for example, a positivist paradigm favors quantitative methods, while interpretivism aligns with qualitative approaches.
+15. Critical thinking involves analyzing arguments, identifying biases, evaluating evidence, and assessing the coherence and validity of research claims.
+
+---
