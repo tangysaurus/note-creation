@@ -49,6 +49,12 @@ class Extras(BaseModel):
     quiz: str = Field(..., description = "Written quiz that tests a student's understanding of the lecture. Format the title 'quiz' in markdown using '###'.")
     answers: str = Field(..., description = "Answers to the written quiz. Format the title 'answers' in markdown using '###'.")
 
+class Eval(BaseModel):
+    """Schema for eval"""
+    hallucinations: list[str] = Field(..., description = "Explanations of errors and inconsistencies")
+    revisions: list[str] = Field(..., description = "Revisions made to correct the corresponding hallucination")
+    score: int = Field(..., description = "Score (from 0% to 100%) that represents the percentage of the section that contained hallucinations")
+
 def split_transcript_into_lines(transcript: str) -> dict:
     """
     Splits a raw transcript string into a list of lines.
@@ -92,9 +98,8 @@ def normalize_section(section: dict, split_transcript: dict) -> dict:
         "transcript": transcript
     }
 
-def generate_note_section(transcript_section: dict, split_transcript: dict) -> dict:
+def generate_note_section(normalized_section: dict) -> dict:
     """Combine transcript section metadata and content to create a note section"""
-    normalized_section = normalize_section(transcript_section, split_transcript)
     res = client.beta.chat.completions.parse(
         model = "gpt-4.1",
         messages = [
@@ -148,6 +153,90 @@ def generate_extras(transcript: str) -> dict:
     extras = res.choices[0].message.parsed.model_dump()
     return extras
 
+def hallucination_check(note_section_text: str, transcript_section_text: str) -> dict:
+    """Evaluate the accuracy of a note section against its corresponding transcript section"""
+    res = client.beta.chat.completions.parse(
+        model = "gpt-4.1",
+        messages = [
+            {
+                "role": "system", 
+                "content": 
+                    """
+                    You are a course creator for a college class. 
+                    Evaluate the accuracy of an AI generated note section against the transcript section it represents.
+                    """
+            },
+            {
+                "role": "user", 
+                "content": f"note section: {note_section_text} \n transcript section: {transcript_section_text}"
+            }
+        ],
+        response_format = Eval
+    )
+    evaluation = res.choices[0].message.parsed.model_dump()
+    return evaluation
+
+def fix_hallucination(note_section_text: str, transcript_section_text: str, hallucinations: list[str], revisions: list[str]) -> str:
+    """Make revisions to resolve hallucinations"""
+    res = client.beta.chat.completions.parse(
+        model = "gpt-4.1",
+        messages = [
+            {
+                "role": "system", 
+                "content": 
+                    """
+                    You are a course creator for a college class. 
+                    Given the following set of hallucinations and revisions that should be made, revise the AI generated note section such that it accurately represents the transcript section.
+                    Maintain the style and formatting of the note section, and avoid making sweeping changes.
+                    """
+            },
+            {
+                "role": "user", 
+                "content": 
+                    f"""
+                    note section: {note_section_text} 
+                    transcript section: {transcript_section_text} 
+                    hallucinations: {str(hallucinations)}
+                    revisions: {str(revisions)}
+                    """
+            }
+        ]
+    )
+    revised = res.choices[0].message.content
+    return revised
+
+def self_reflection(note_section_text: str, transcript_section_text: str, max_iterations: int, threshold: int):
+    """Iteratively evaluate and revise note until a threshold or plateau is reached"""
+    iteration = 0
+    net_gain = 0
+    scores = []
+    note_sections = []
+    max_index = 0
+
+    while iteration < max_iterations:
+        if scores and scores[-1] >= threshold:
+            break
+        if len(scores) >= 2:
+            net_gain += scores[-1] - scores[-2]
+        if net_gain <= -10:
+            break
+
+        eval = hallucination_check(note_section_text, transcript_section_text)
+        scores.append(eval["score"])
+
+        if scores[iteration] > scores[max_index]:
+            max_index = iteration
+
+        note_sections.append(note_section_text)
+        note_section_text = fix_hallucination(note_section_text, 
+                                              transcript_section_text, 
+                                              eval["hallucinations"], 
+                                              eval["revisions"]
+                                              )
+        iteration += 1
+
+    return note_sections[max_index]
+
 def compile_note(transcript: str) -> str:
     """
     Break a transcript into semantically meaningful sections
@@ -155,12 +244,23 @@ def compile_note(transcript: str) -> str:
     Combine each note and additional content together
     """
     split_transcript = split_transcript_into_lines(transcript)
-    transcript_sections = annotate_transcript(split_transcript)
+    messages = [
+        {
+            "role": "system", 
+            "content": "Break the following transcript into 5 or 6 sections using the provided line numbers."
+        },
+        {
+            "role": "user", 
+            "content": str(split_transcript)
+        }
+    ]
+    transcript_sections = annotate_transcript(split_transcript, messages)
     compiled_note_sections = []
 
     for transcript_section in transcript_sections:
-        note_section = generate_note_section(transcript_section, split_transcript)
-        compiled_note = compile_note_section(note_section)
+        normalized_section = normalize_section(transcript_section, split_transcript)
+        note_section = generate_note_section(normalized_section)
+        compiled_note = self_reflection(compile_note_section(note_section), normalized_section["transcript"], max_iterations = 4, threshold = 0.98)
         compiled_note_sections.append(compiled_note)
 
     extras = generate_extras(transcript)
