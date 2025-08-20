@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "name": "Outline",
+  "metadata": {
+    "description": "An outline consisting of headings and short bullet-point notes",
+    "author": "Project Athena Team",
+    "created": "2025-08-15"
+  },
+  "length": "medium",
+  "sections": [
+    {
+      "id": 1,
+      "name": "Title",
+      "source": "root",
+      "repeat": {
+        "type": "none"
+      },
+      "check_hallucination": false,
+      "prompt": "Create a short title for this lecture. Only respond with a title. Do not use quotes. Use ## heading markdown. Include a markdown divider at the end '---'",
+      "children": []
+    },
+    {
+      "id": 2,
+      "name": "Chapter",
+      "source": "root",
+      "repeat": {
+        "type": "per_chunk"
+      },
+      "check_hallucination": true,
+      "prompt": "",
+      "children": [
+        {
+          "id": 3,
+          "name": "Heading",
+          "source": "parent_chunk",
+          "repeat": {
+            "type": "none"
+          },
+          "check_hallucination": false,
+          "prompt": "Generate a short title to describe this part of the lecture. Include a single emoji at the start of the title. Only respond with a title. Do not use quotes. Do not label it. Use #### heading markdown.",
+          "children": []
+        },
+        {
+          "id": 4,
+          "name": "Key Points",
+          "source": "parent_chunk",
+          "repeat": {
+            "type": "none"
+          },
+          "check_hallucination": false,
+          "prompt": "Extract the most essential facts and arguments in bullet point format. Bold key terms and concepts. Use markdown: bold, bullet points \"- \", indented points \"   - \", and double indented points \"      - \" for legibility. Make each line short. Use markdown bold for legibility **bold**. Be thorough.",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
